@@ -7,3 +7,4 @@ user-agent==0.1.10
 telethon
 kvsqlite
 Pyrogram
+pyromod
